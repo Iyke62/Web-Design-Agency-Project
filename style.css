@@ -33,6 +33,7 @@ footer {
 
 .card{
   width: 45%;
+  overflow: hidden;
 }
 
 .left{
